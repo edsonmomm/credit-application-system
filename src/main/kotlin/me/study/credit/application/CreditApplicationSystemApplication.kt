@@ -7,6 +7,5 @@ import org.springframework.boot.runApplication
 class CreditApplicationSystemApplication
 
 fun main(args: Array<String>) {
-	println("works")
 	runApplication<CreditApplicationSystemApplication>(*args)
 }
