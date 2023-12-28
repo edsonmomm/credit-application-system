@@ -29,6 +29,7 @@ class CustomerController(
     }
 
     @DeleteMapping()
+    @ResponseStatus(HttpStatus.NO_CONTENT)
     fun deleteById(@RequestParam(value = "customerId") id: Long) {
         this.customerService.delete(id)
     }
