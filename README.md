@@ -83,5 +83,6 @@
     </p>
 </figure>
 
-<h6>* The file [cas.postman_collection.json](src/main/resources/cas.postman_collection.json) may help to test the endpoints using Postman tool.</h6>
+<br>
+<h6>* The file <em>cas.postman_collection.json</em> may help to test the endpoints using Postman tool.</h6>
 <h6>** To ease the demonstration of this application, it is recommended to use IntelliJ IDEA and run the project through the IDE.</h6>
